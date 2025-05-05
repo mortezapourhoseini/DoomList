@@ -30,6 +30,6 @@
 > Use `watch -n 10 ./doomlist.sh view` to watch your doom in real-time!  
 
 ---  
-**Your productivity apocalypse starts now.** 🔥  
+**Your productivity apocalypse starts now.** 
 
 *(Data saved in `~/.todolist` – no cloud, no fluff.)*
